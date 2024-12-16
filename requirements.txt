@@ -1,0 +1,14 @@
+openai
+huggingface_hub[cli]
+numpy==1.26.4
+spacy
+tqdm==4.66.2
+sentence_transformers==2.5.1
+pandas==2.2.1
+frontend
+pytest
+lark
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch
+torchvision
+torchaudio
